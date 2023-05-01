@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serkan Yılmaz</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I'm+Serkan+Y%C4%B1lmaz)](https://git.io/typing-svg)
 <h3 align="center">A computer engineering student and junior backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sserkanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="sserkanyilmaz" /> </p>
