@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Serkan+Y%C4%B1lmaz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=3500&pause=500&color=32CD32&center=true&vCenter=true&width=2250&height=300&lines=Hi+%2C+I'm+Serkan+Y%C4%B1lmaz)](https://git.io/typing-svg)
 <h3 align="center">A computer engineering student and junior backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sserkanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="sserkanyilmaz" /> </p>
